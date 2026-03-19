@@ -34,3 +34,5 @@ To run this project locally, you will need:
 3. Start the React development server:
    `npm run dev`
 4. Open the provided `localhost` link in your browser to interact with the bot!
+
+i didn't attach the gemini api keys with it to test I'll send that to my guide 
